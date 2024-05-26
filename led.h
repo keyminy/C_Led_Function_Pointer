@@ -1,0 +1,10 @@
+#pragma once
+void led_all_on();
+void led_all_off();
+void led_on_up();
+void led_on_down();
+void led_keep_on_up();
+void led_keep_on_down();
+void led_flower_on();
+void led_flower_off();
+void led_main();

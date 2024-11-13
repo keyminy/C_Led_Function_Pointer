@@ -53,7 +53,7 @@ void (*led_functions3[])() = {
 };
 
 // 2차원 배열
-void (**led_function_arrays[])() = {
+void (**led_function_arrays[3])() = {
 	led_functions1,
 	led_functions2,
 	led_functions3

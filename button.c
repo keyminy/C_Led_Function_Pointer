@@ -1,4 +1,4 @@
 #include "button.h"
 
-button0_count = 0;
+button0_count = 1;
 state = 2;
